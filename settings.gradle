@@ -1,0 +1,2 @@
+rootProject.name = "fragment-slider-view-pager2"
+include ':app'
